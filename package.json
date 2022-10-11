@@ -31,9 +31,9 @@
     "zone.js": "~0.11.4"
   },
   "peerDependencies": {
-    "@angular/common": "^13.0.0",
-    "@angular/core": "^13.0.0",
-    "rxjs": "^7.0.0"
+    "@angular/common": "^12 || ^13.0.0",
+    "@angular/core": "^12 || ^13.0.0",
+    "rxjs": "^6 || ^7"
   },
   "devDependencies": {
     "@angular/compiler": "^13.0.0",
