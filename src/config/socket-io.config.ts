@@ -120,7 +120,7 @@ export interface SocketIoConfig {
     extraHeaders?: {
       [header: string]: string;
     };
-    
+
     // Additional options for NodeJS Engine.IO clients omitted: https://socket.io/docs/client-api/
   };
 }
