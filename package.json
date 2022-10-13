@@ -1,7 +1,7 @@
 {
-  "name": "ngx-socket-io",
-  "version": "4.2.0",
-  "description": "Socket.IO module for Angular",
+  "name": "@helveg/ngx-socket-io",
+  "version": "1.0.0",
+  "description": "Fork of `ngx-socket-io`. Socket.IO module for Angular",
   "main": "index.ts",
   "scripts": {
     "build": "ng-packagr",
