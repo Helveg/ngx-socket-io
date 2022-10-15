@@ -7,7 +7,7 @@
     "prebuild": "rimraf dist",
     "build": "ng-packagr -p ng-package.json",
     "publish": "npm publish dist/",
-    "format": "prettier --write src",
+    "format": "prettier --write src"
   },
   "repository": {
     "type": "git",
