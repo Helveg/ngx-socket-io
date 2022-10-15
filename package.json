@@ -4,7 +4,7 @@
   "description": "Fork of `ngx-socket-io`. Socket.IO module for Angular",
   "main": "index.ts",
   "scripts": {
-    "build": "ng-packagr",
+    "build": "ng-packagr -p ng-package.json",
     "format": "prettier --write src",
     "prepare": "husky install"
   },
